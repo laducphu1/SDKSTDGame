@@ -29,7 +29,7 @@ s.dependency 'FBSDKLoginKit'
 s.dependency 'GoogleSignIn'
 
 # 8
-s.source_files = "StdSdkGame/**/*.{swift}"
+s.source_files = "StdSdkGame/StdSdkGame/**/*.{swift}"
 
 # 9
 s.resources = "StdSdkGame/**/*.{png,jpeg,jpg,storyboard,xib,xcassets}"
